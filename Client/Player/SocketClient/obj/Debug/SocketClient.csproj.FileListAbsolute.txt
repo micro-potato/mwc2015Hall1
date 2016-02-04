@@ -1,0 +1,5 @@
+F:\Project\2014巴展品牌Hall1多媒体导播系统\Client\Player\SocketClient\bin\Debug\ClientDLL.dll
+F:\Project\2014巴展品牌Hall1多媒体导播系统\Client\Player\SocketClient\bin\Debug\ClientDLL.pdb
+F:\Project\2014巴展品牌Hall1多媒体导播系统\Client\Player\SocketClient\obj\Debug\ResolveAssemblyReference.cache
+F:\Project\2014巴展品牌Hall1多媒体导播系统\Client\Player\SocketClient\obj\Debug\ClientDLL.dll
+F:\Project\2014巴展品牌Hall1多媒体导播系统\Client\Player\SocketClient\obj\Debug\ClientDLL.pdb

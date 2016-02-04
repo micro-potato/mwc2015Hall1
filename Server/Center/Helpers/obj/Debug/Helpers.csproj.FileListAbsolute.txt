@@ -1,0 +1,49 @@
+F:\Project\2014巴展品牌Hall1多媒体导播系统\Server\Center\Helpers\bin\Debug\Helpers.dll
+F:\Project\2014巴展品牌Hall1多媒体导播系统\Server\Center\Helpers\bin\Debug\Helpers.pdb
+F:\Project\2014巴展品牌Hall1多媒体导播系统\Server\Center\Helpers\obj\Debug\ResolveAssemblyReference.cache
+F:\Project\2014巴展品牌Hall1多媒体导播系统\Server\Center\Helpers\obj\Debug\Helpers.dll
+F:\Project\2014巴展品牌Hall1多媒体导播系统\Server\Center\Helpers\obj\Debug\Helpers.pdb
+F:\Backup\2014巴展品牌Hall1多媒体导播系统20140214\Server\Center\Helpers\bin\Debug\Helpers.dll
+F:\Backup\2014巴展品牌Hall1多媒体导播系统20140214\Server\Center\Helpers\bin\Debug\Helpers.pdb
+F:\Backup\2014巴展品牌Hall1多媒体导播系统20140214\Server\Center\Helpers\obj\Debug\ResolveAssemblyReference.cache
+F:\Backup\2014巴展品牌Hall1多媒体导播系统20140214\Server\Center\Helpers\obj\Debug\Helpers.dll
+F:\Backup\2014巴展品牌Hall1多媒体导播系统20140214\Server\Center\Helpers\obj\Debug\Helpers.pdb
+F:\Project\2015项目\2015_巴展品牌Hall1多媒体导播系统 - 曾宏\Server\Center\Helpers\bin\Debug\Helpers.dll
+F:\Project\2015项目\2015_巴展品牌Hall1多媒体导播系统 - 曾宏\Server\Center\Helpers\bin\Debug\Helpers.pdb
+F:\Project\2015项目\2015_巴展品牌Hall1多媒体导播系统 - 曾宏\Server\Center\Helpers\obj\Debug\ResolveAssemblyReference.cache
+F:\Project\2015项目\2015_巴展品牌Hall1多媒体导播系统 - 曾宏\Server\Center\Helpers\obj\Debug\Helpers.dll
+F:\Project\2015项目\2015_巴展品牌Hall1多媒体导播系统 - 曾宏\Server\Center\Helpers\obj\Debug\Helpers.pdb
+F:\Project\2015项目\2015_巴展品牌Hall1多媒体导播系统 - 曾宏\Server\Center\Helpers\bin\Debug\NReco.VideoConverter.dll
+F:\Project\2015项目\2015_巴展品牌Hall1多媒体导播系统_曾宏\Server\Center\Helpers\bin\Debug\Helpers.dll
+F:\Project\2015项目\2015_巴展品牌Hall1多媒体导播系统_曾宏\Server\Center\Helpers\bin\Debug\Helpers.pdb
+F:\Project\2015项目\2015_巴展品牌Hall1多媒体导播系统_曾宏\Server\Center\Helpers\bin\Debug\NReco.VideoConverter.dll
+F:\Project\2015项目\2015_巴展品牌Hall1多媒体导播系统_曾宏\Server\Center\Helpers\obj\Debug\ResolveAssemblyReference.cache
+F:\Project\2015项目\2015_巴展品牌Hall1多媒体导播系统_曾宏\Server\Center\Helpers\obj\Debug\Helpers.dll
+F:\Project\2015项目\2015_巴展品牌Hall1多媒体导播系统_曾宏\Server\Center\Helpers\obj\Debug\Helpers.pdb
+F:\Project\2015项目\巴展品牌Hall1多媒体导播系统_曾宏\Server\Center\Helpers\bin\Debug\Helpers.dll
+F:\Project\2015项目\巴展品牌Hall1多媒体导播系统_曾宏\Server\Center\Helpers\bin\Debug\Helpers.pdb
+F:\Project\2015项目\巴展品牌Hall1多媒体导播系统_曾宏\Server\Center\Helpers\bin\Debug\NReco.VideoConverter.dll
+F:\Project\2015项目\巴展品牌Hall1多媒体导播系统_曾宏\Server\Center\Helpers\obj\Debug\ResolveAssemblyReference.cache
+F:\Project\2015项目\巴展品牌Hall1多媒体导播系统_曾宏\Server\Center\Helpers\obj\Debug\Helpers.dll
+F:\Project\2015项目\巴展品牌Hall1多媒体导播系统_曾宏\Server\Center\Helpers\obj\Debug\Helpers.pdb
+F:\Project\2015项目\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\Helpers\bin\Debug\Helpers.dll
+F:\Project\2015项目\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\Helpers\bin\Debug\Helpers.pdb
+F:\Project\2015项目\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\Helpers\bin\Debug\NReco.VideoConverter.dll
+F:\Project\2015项目\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\Helpers\obj\Debug\ResolveAssemblyReference.cache
+F:\Project\2015项目\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\Helpers\obj\Debug\Helpers.dll
+F:\Project\2015项目\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\Helpers\obj\Debug\Helpers.pdb
+D:\bzdata\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\Helpers\bin\Debug\Helpers.dll
+D:\bzdata\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\Helpers\bin\Debug\Helpers.pdb
+D:\bzdata\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\Helpers\obj\Debug\Helpers.dll
+D:\bzdata\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\Helpers\obj\Debug\Helpers.pdb
+D:\bzdata\2015巴展_现场修改\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\Helpers\bin\Debug\Helpers.dll
+D:\bzdata\2015巴展_现场修改\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\Helpers\bin\Debug\Helpers.pdb
+D:\bzdata\2015巴展_现场修改\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\Helpers\obj\Debug\Helpers.dll
+D:\bzdata\2015巴展_现场修改\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\Helpers\obj\Debug\Helpers.pdb
+D:\bzdata\2015巴展_现场修改\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\Helpers\obj\Debug\Helpers.csprojResolveAssemblyReference.cache
+E:\code\code2015\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\Helpers\bin\Debug\Helpers.dll
+E:\code\code2015\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\Helpers\bin\Debug\Helpers.pdb
+E:\code\code2015\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\Helpers\bin\Debug\NReco.VideoConverter.dll
+E:\code\code2015\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\Helpers\obj\Debug\Helpers.csprojResolveAssemblyReference.cache
+E:\code\code2015\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\Helpers\obj\Debug\Helpers.dll
+E:\code\code2015\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\Helpers\obj\Debug\Helpers.pdb

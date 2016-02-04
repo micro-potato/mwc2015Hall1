@@ -1,0 +1,12 @@
+F:\Project\2014巴展品牌Hall1多媒体导播系统\Client\flash\FlashContainerTest\FlashContainerTest\bin\Debug\FlashContainerTest.exe
+F:\Project\2014巴展品牌Hall1多媒体导播系统\Client\flash\FlashContainerTest\FlashContainerTest\bin\Debug\FlashContainerTest.pdb
+F:\Project\2014巴展品牌Hall1多媒体导播系统\Client\flash\FlashContainerTest\FlashContainerTest\bin\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Project\2014巴展品牌Hall1多媒体导播系统\Client\flash\FlashContainerTest\FlashContainerTest\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\Project\2014巴展品牌Hall1多媒体导播系统\Client\flash\FlashContainerTest\FlashContainerTest\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Project\2014巴展品牌Hall1多媒体导播系统\Client\flash\FlashContainerTest\FlashContainerTest\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Project\2014巴展品牌Hall1多媒体导播系统\Client\flash\FlashContainerTest\FlashContainerTest\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\Project\2014巴展品牌Hall1多媒体导播系统\Client\flash\FlashContainerTest\FlashContainerTest\obj\x86\Debug\FlashContainerTest.csproj.ResolveComReference.cache
+F:\Project\2014巴展品牌Hall1多媒体导播系统\Client\flash\FlashContainerTest\FlashContainerTest\obj\x86\Debug\FlashContainerTest.Form1.resources
+F:\Project\2014巴展品牌Hall1多媒体导播系统\Client\flash\FlashContainerTest\FlashContainerTest\obj\x86\Debug\FlashContainerTest.Properties.Resources.resources
+F:\Project\2014巴展品牌Hall1多媒体导播系统\Client\flash\FlashContainerTest\FlashContainerTest\obj\x86\Debug\FlashContainerTest.exe
+F:\Project\2014巴展品牌Hall1多媒体导播系统\Client\flash\FlashContainerTest\FlashContainerTest\obj\x86\Debug\FlashContainerTest.pdb

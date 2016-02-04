@@ -1,0 +1,75 @@
+<data>
+<question desc="What are the biggest challenges that the MBB industry will face in the next two years">
+	<answer desc="To provide ubiquitous mobile connections, including M2M communications" count="0" />
+	<answer desc="To cope with the rapid growth of mobile data traffic" count="0" />
+</question>
+
+<question desc="What should be the priority areas for R&D efforts of mobile broadband networks in the next two years">
+	<answer desc="Adaptability of base stations to different environments and application scenarios" count="0" />
+	<answer desc="To cope with the rapid growth of mobile data traffic" count="0" />
+</question>
+
+<question desc="Which strategy will you adopt to increase the capacity of mobile broadband networks and maximize your return-on-investment">
+	<answer desc="Maximize the utilization of the spectrum" count="0" />
+	<answer desc="Enhance the efficiency of resource utilization with the existing sites" count="0" />
+	<answer desc="Deploy diversified forms of base stations" count="0" />
+	<answer desc="Use Wi-Fi to share the data traffic" count="0" />
+</question>
+
+<question desc="What do you think is the percentage of small cell base stations to be deployed in the next two years among the total number of base stations which are deployed within the same period of time">
+	<answer desc="&lt25%" count="0" />
+	<answer desc="25%&lt50%" count="0" />
+	<answer desc="50-75%" count="0" />
+	<answer desc="75-100%" count="0" />
+</question>
+
+<question desc="What do you think is the percentage of data traffic that will be diverted by small cell base stations among the overall data traffic on your network in the next two years">
+	<answer desc="&lt25%" count="0" />
+	<answer desc="25%&lt50%" count="0" />
+	<answer desc="75-100%" count="0" />
+</question>
+
+<question desc="What will be the biggest challenge for you with the small cell BTS deployment in the next two years">
+	<answer desc="Invisibility of base station" count="0" />
+	<answer desc="Competition coming from existing WiFi access" count="0" />
+</question>
+
+<question desc="When do you think the industry will start to deploy NFV over core networks">
+	<answer desc="Within 1 year" count="0" />
+	<answer desc="Within 3-5 years" count="0" />
+</question>
+
+<question desc="Which of the following areas are you most concerned about in the networks’ evolution from traditional legacy core networks to cloud-based virtualized networks">
+	<answer desc="Total cost of construction, operation and maintenance of the new NFV networks" count="0" />
+</question>
+
+<question desc="When do you think the industry will start to deploy NFV over core networks">
+	<answer desc="Within 1 year" count="0" />
+	<answer desc="Within 3-5 years" count="0" />
+</question>
+
+<question desc="您认为未来5G的关键业务特征是什么，有什么关键变化">
+	<answer desc="更多样化的终端" count="0" />
+</question>
+
+<question desc="Which area provides the most business development opportunities for LTE">
+	<answer desc="Vertical industries (e.g. eHealth）" count="0" />
+</question>
+
+<question desc="how much did the investment in UMTS account for your company’s overall GSM/UMTS/LTE investment">
+	<answer desc="40%-60%" count="0" />
+</question>
+
+<question desc="What will be the potential split of investment between UMTS and LTE in your company three years later">
+	<answer desc="60%/40%" count="0" />
+</question>
+
+<question desc="Which are your top3 priorities for CEM">
+	<answer desc="Set measurable CE metrics" count="0" />
+	<answer desc="Develop an achievable CEM plan" count="0" />
+	<answer desc="Fine-tune CE-related processes" count="0" />
+	<answer desc="Establish user-centric operations" count="0" />
+	<answer desc="Improve CE benchmark ranking" count="0" />
+</question>
+
+</data>

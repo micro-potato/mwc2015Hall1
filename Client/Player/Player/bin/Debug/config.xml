@@ -1,0 +1,13 @@
+﻿<Data>
+	<GroupID>99</GroupID>
+	<IP>192.168.1.201</IP>
+	<Port>8898</Port>
+	<Width>1920</Width>
+	<Height>540</Height>
+	<LocationX>0</LocationX>
+	<LocationY>0</LocationY>
+	<ServerFolder>\\192.168.1.201\filefolder</ServerFolder>
+	<LocalFolder>D:\\files</LocalFolder>
+	<IsDouble>1</IsDouble>
+	<IsManageFile>0</IsManageFile>
+</Data>

@@ -1,0 +1,21 @@
+<content>
+  <video>
+    <filename>3.mp4</filename>
+    <!--><des>
+      <type>2</type>
+      <last>10</last>
+      <pic1>HomePage.jpg</pic1>
+    </des>
+    <des>
+      <type>desvideo</type>
+      <last>10</last>
+      <desvideo>test1_5m.mp4</desvideo>
+    </des><!-->
+	 <des>
+      <type>vote</type>
+      <last>15</last>
+      <voteui>1</voteui>
+      <question>What do you think is the percentage of data traffic that will be diverted by small cell base stations among the overall data traffic on your network in the next two years</question>
+    </des>
+  </video>
+</content>

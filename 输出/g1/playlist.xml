@@ -1,0 +1,52 @@
+<data>
+  <video>
+    <fileName>highrailwayoff_cn.mp4</fileName>
+    <videoTitle>Hello?</videoTitle>
+    <videoText>Hi there!</videoText>
+    <des>
+      <type>pic</type>
+      <last>5</last>
+      <fileName>ca.jpg</fileName>
+    </des>
+    <des>
+      <type>pic</type>
+      <last>5</last>
+      <fileName>m2m.jpg</fileName>
+    </des>
+    <des>
+      <type>pic</type>
+      <last>5</last>
+      <fileName>ptt.jpg</fileName>
+    </des>
+  </video>
+  <video>
+    <fileName>ca_en.mp4</fileName>
+    <videoTitle>Huawei BOOST</videoTitle>
+    <videoText>Unleashing the power of ultra-broadband</videoText>
+    <des>
+      <type>pic</type>
+      <last>2</last>
+      <fileName>_SingleDAS.jpg</fileName>
+    </des>
+    <des>
+      <type>pic</type>
+      <last>20</last>
+      <fileName>ca_cn.jpg</fileName>
+    </des>
+  </video>
+  <video>
+    <fileName>4_5m.mp4</fileName>
+    <videoTitle>Huawei BOOST</videoTitle>
+    <videoText>Unleashing the power of ultra-broadband</videoText>
+    <des>
+      <type>pic</type>
+      <last>10</last>
+      <fileName>_wifi.jpg</fileName>
+    </des>
+    <des>
+      <type>pic</type>
+      <last>10</last>
+      <fileName>_SingleDAS.jpg</fileName>
+    </des>
+  </video>
+</data>

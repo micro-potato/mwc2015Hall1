@@ -1,0 +1,25 @@
+一。flash to win:
+requestDesFile:InitID //获取描述资源的文件：初始ID
+requestVideoFile:InitID //获取描述资源的文件：初始ID
+requestPlayList //从文件获取播放列表
+loadTypeError //加载的列表不符合当前组
+playPlayList:groupID：PlayListXML //播放播放列表：组ID^列表xml
+broadcast：sourceGroupID:targetGroupID1,targetGroupID2...//广播组：源组：目标组1，组2.。。
+savePlayList:PlayListXML //保存播放列表：列表xml
+requestPreView:PlayListXML //预览播放列表
+syncGroup:groupID| //显示组内容:组号
+requestExit //关闭程序
+
+
+
+二。win to flash:
+respondDesFile:InitID^FileName //返回选择的Video资源文件：初始ID^文件名
+respondVideoFile:InitID^FileName //返回选择的Des资源文件：初始ID^文件名
+respondPlayList:playListXML //返回播放列表：列表xml
+
+三。Center to player
+runPlaylist:PlayListXML| //命令一个客户端播放列表：列表xml
+groupInfoGot //通知客户端已获得组信息
+
+四。Player to center
+groupID:ID| //组ID:ID

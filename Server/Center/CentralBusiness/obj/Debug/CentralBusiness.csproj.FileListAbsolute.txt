@@ -1,0 +1,83 @@
+F:\Project\2015项目\2015_巴展品牌Hall1多媒体导播系统 - 曾宏\Server\Center\CentralBusiness\bin\Debug\CentralBusiness.dll
+F:\Project\2015项目\2015_巴展品牌Hall1多媒体导播系统 - 曾宏\Server\Center\CentralBusiness\bin\Debug\CentralBusiness.pdb
+F:\Project\2015项目\2015_巴展品牌Hall1多媒体导播系统 - 曾宏\Server\Center\CentralBusiness\obj\Debug\ResolveAssemblyReference.cache
+F:\Project\2015项目\2015_巴展品牌Hall1多媒体导播系统 - 曾宏\Server\Center\CentralBusiness\obj\Debug\CentralBusiness.dll
+F:\Project\2015项目\2015_巴展品牌Hall1多媒体导播系统 - 曾宏\Server\Center\CentralBusiness\obj\Debug\CentralBusiness.pdb
+F:\Project\2015项目\2015_巴展品牌Hall1多媒体导播系统 - 曾宏\Server\Center\CentralBusiness\bin\Debug\Helpers.dll
+F:\Project\2015项目\2015_巴展品牌Hall1多媒体导播系统 - 曾宏\Server\Center\CentralBusiness\bin\Debug\NReco.VideoConverter.dll
+F:\Project\2015项目\2015_巴展品牌Hall1多媒体导播系统 - 曾宏\Server\Center\CentralBusiness\bin\Debug\Helpers.pdb
+F:\Project\2015项目\2015_巴展品牌Hall1多媒体导播系统 - 曾宏\Server\Center\CentralBusiness\bin\Debug\Newtonsoft.Json.dll
+F:\Project\2015项目\2015_巴展品牌Hall1多媒体导播系统 - 曾宏\Server\Center\CentralBusiness\bin\Debug\Newtonsoft.Json.pdb
+F:\Project\2015项目\2015_巴展品牌Hall1多媒体导播系统 - 曾宏\Server\Center\CentralBusiness\bin\Debug\Newtonsoft.Json.xml
+F:\Project\2015项目\2015_巴展品牌Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\CentralBusiness.dll
+F:\Project\2015项目\2015_巴展品牌Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\CentralBusiness.pdb
+F:\Project\2015项目\2015_巴展品牌Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\Helpers.dll
+F:\Project\2015项目\2015_巴展品牌Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\Newtonsoft.Json.dll
+F:\Project\2015项目\2015_巴展品牌Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\NReco.VideoConverter.dll
+F:\Project\2015项目\2015_巴展品牌Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\Helpers.pdb
+F:\Project\2015项目\2015_巴展品牌Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\Newtonsoft.Json.pdb
+F:\Project\2015项目\2015_巴展品牌Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\Newtonsoft.Json.xml
+F:\Project\2015项目\2015_巴展品牌Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\obj\Debug\ResolveAssemblyReference.cache
+F:\Project\2015项目\2015_巴展品牌Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\obj\Debug\CentralBusiness.dll
+F:\Project\2015项目\2015_巴展品牌Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\obj\Debug\CentralBusiness.pdb
+F:\Project\2015项目\2015_巴展品牌Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\SocketServer.dll
+F:\Project\2015项目\2015_巴展品牌Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\SocketServer.pdb
+F:\Project\2015项目\巴展品牌Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\CentralBusiness.dll
+F:\Project\2015项目\巴展品牌Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\CentralBusiness.pdb
+F:\Project\2015项目\巴展品牌Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\Helpers.dll
+F:\Project\2015项目\巴展品牌Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\Newtonsoft.Json.dll
+F:\Project\2015项目\巴展品牌Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\SocketServer.dll
+F:\Project\2015项目\巴展品牌Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\NReco.VideoConverter.dll
+F:\Project\2015项目\巴展品牌Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\Helpers.pdb
+F:\Project\2015项目\巴展品牌Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\SocketServer.pdb
+F:\Project\2015项目\巴展品牌Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\Newtonsoft.Json.pdb
+F:\Project\2015项目\巴展品牌Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\Newtonsoft.Json.xml
+F:\Project\2015项目\巴展品牌Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\obj\Debug\ResolveAssemblyReference.cache
+F:\Project\2015项目\巴展品牌Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\obj\Debug\CentralBusiness.dll
+F:\Project\2015项目\巴展品牌Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\obj\Debug\CentralBusiness.pdb
+F:\Project\2015项目\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\CentralBusiness.dll
+F:\Project\2015项目\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\CentralBusiness.pdb
+F:\Project\2015项目\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\Helpers.dll
+F:\Project\2015项目\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\Newtonsoft.Json.dll
+F:\Project\2015项目\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\NReco.VideoConverter.dll
+F:\Project\2015项目\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\Helpers.pdb
+F:\Project\2015项目\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\Newtonsoft.Json.pdb
+F:\Project\2015项目\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\Newtonsoft.Json.xml
+F:\Project\2015项目\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\obj\Debug\ResolveAssemblyReference.cache
+F:\Project\2015项目\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\obj\Debug\CentralBusiness.dll
+F:\Project\2015项目\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\obj\Debug\CentralBusiness.pdb
+F:\Project\2015项目\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\ServerDLL.dll
+F:\Project\2015项目\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\ServerDLL.pdb
+D:\bzdata\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\CentralBusiness.dll
+D:\bzdata\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\CentralBusiness.pdb
+D:\bzdata\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\Helpers.dll
+D:\bzdata\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\ServerDLL.dll
+D:\bzdata\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\NReco.VideoConverter.dll
+D:\bzdata\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\Helpers.pdb
+D:\bzdata\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\ServerDLL.pdb
+D:\bzdata\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\obj\Debug\CentralBusiness.csprojResolveAssemblyReference.cache
+D:\bzdata\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\obj\Debug\CentralBusiness.dll
+D:\bzdata\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\obj\Debug\CentralBusiness.pdb
+D:\bzdata\2015巴展_现场修改\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\CentralBusiness.dll
+D:\bzdata\2015巴展_现场修改\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\CentralBusiness.pdb
+D:\bzdata\2015巴展_现场修改\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\Helpers.dll
+D:\bzdata\2015巴展_现场修改\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\ServerDLL.dll
+D:\bzdata\2015巴展_现场修改\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\NReco.VideoConverter.dll
+D:\bzdata\2015巴展_现场修改\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\Helpers.pdb
+D:\bzdata\2015巴展_现场修改\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\ServerDLL.pdb
+D:\bzdata\2015巴展_现场修改\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\obj\Debug\CentralBusiness.csprojResolveAssemblyReference.cache
+D:\bzdata\2015巴展_现场修改\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\obj\Debug\CentralBusiness.dll
+D:\bzdata\2015巴展_现场修改\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\obj\Debug\CentralBusiness.pdb
+E:\code\code2015\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\CentralBusiness.dll
+E:\code\code2015\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\CentralBusiness.pdb
+E:\code\code2015\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\Helpers.dll
+E:\code\code2015\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\Newtonsoft.Json.dll
+E:\code\code2015\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\ServerDLL.dll
+E:\code\code2015\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\NReco.VideoConverter.dll
+E:\code\code2015\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\Helpers.pdb
+E:\code\code2015\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\ServerDLL.pdb
+E:\code\code2015\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\Newtonsoft.Json.pdb
+E:\code\code2015\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\bin\Debug\Newtonsoft.Json.xml
+E:\code\code2015\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\obj\Debug\CentralBusiness.csprojResolveAssemblyReference.cache
+E:\code\code2015\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\obj\Debug\CentralBusiness.dll
+E:\code\code2015\2015巴展Hall1多媒体导播系统_曾宏\Server\Center\CentralBusiness\obj\Debug\CentralBusiness.pdb

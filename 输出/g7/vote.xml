@@ -1,0 +1,23 @@
+<data>
+
+<question desc="Question 1" count="100">
+
+<answer desc="Answer 1" count="30" />
+
+<answer desc="Answer 2" count="40" />
+
+<answer desc="Answer 3" count="30" />
+
+</question>
+
+<question desc="Question 2" count="100">
+
+<answer desc="Answer 1" count="30" />
+
+<answer desc="Answer 2" count="40" />
+
+<answer desc="Answer 3" count="30" />
+
+</question>
+
+</data>

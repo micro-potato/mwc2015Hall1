@@ -1,0 +1,8 @@
+<client>
+	<pcid>1</pcid>
+	<group>2</group>
+	<ip>192.168.3.97</ip>
+	<port>6000</port>
+	<voteurl>http://54.201.247.212/hwsm/client/topic_service</voteurl>
+	<filefolder>F:\Project\2014巴展品牌Hall1多媒体导播系统\Client\Player\Player\bin\Debug\filefolder</filefolder>
+</client>

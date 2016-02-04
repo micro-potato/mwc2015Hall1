@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1000]F:\Project\2014巴展品牌Hall1多媒体导播系统\Client\Player\Test\bin\Debug\Test.nunit</TopNode>
+  <SelectedNode>[0-1000]F:\Project\2014巴展品牌Hall1多媒体导播系统\Client\Player\Test\bin\Debug\Test.nunit</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1000]F:\Project\2014巴展品牌Hall1多媒体导播系统\Client\Player\Test\bin\Debug\Test.nunit" Expanded="true" />
+    <Node UniqueName="[0-1010]F:\Project\2014巴展品牌Hall1多媒体导播系统\Client\Player\Test\bin\Debug\Test.dll" Expanded="true" />
+    <Node UniqueName="[0-1011]Test" Expanded="true" />
+    <Node UniqueName="[0-1001]Test.TestClass" Expanded="true" />
+    <Node UniqueName="[0-1008]Test.TestClass.BurdenTest" Expanded="true" />
+    <Node UniqueName="[0-1004]Test.TestClass.CpuTest" Expanded="true" />
+    <Node UniqueName="[0-1002]Test.TestClass.LocationTest" Expanded="true" />
+    <Node UniqueName="[0-1006]Test.TestClass.RamTest" Expanded="true" />
+    <Node UniqueName="[0-1021]F:\Project\2014巴展品牌Hall1多媒体导播系统\Server\Center\Test\bin\Debug\Test.dll" Expanded="true" />
+    <Node UniqueName="[0-1022]Test" Expanded="true" />
+    <Node UniqueName="[0-1012]Test.TestClass" Expanded="true" />
+    <Node UniqueName="[0-1019]Test.TestClass.BurdenTest" Expanded="true" />
+    <Node UniqueName="[0-1015]Test.TestClass.CpuTest" Expanded="true" />
+    <Node UniqueName="[0-1013]Test.TestClass.LocationTest" Expanded="true" />
+    <Node UniqueName="[0-1017]Test.TestClass.RamTest" Expanded="true" />
+  </Nodes>
+</VisualState>

@@ -1,0 +1,13 @@
+﻿<Data>
+	<GroupID>15</GroupID>
+	<IP>127.0.0.1</IP>
+	<Port>6065</Port>
+	<Width>960</Width>
+	<Height>540</Height>
+	<LocationX>0</LocationX>
+	<LocationY>540</LocationY>
+	<ServerFolder>\\192.168.0.151\filefolder</ServerFolder>
+	<LocalFolder>F:\Project\2015项目\2015巴展Hall1多媒体导播系统_曾宏\Client\filefolder</LocalFolder>
+	<IsDouble>0</IsDouble>
+	<IsManageFile>1</IsManageFile>
+</Data>

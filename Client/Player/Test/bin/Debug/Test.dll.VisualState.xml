@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1003]F:\Project\2014巴展品牌Hall1多媒体导播系统\Client\Player\Test\bin\Debug\Test.dll</TopNode>
+  <SelectedNode>[0-1003]F:\Project\2014巴展品牌Hall1多媒体导播系统\Client\Player\Test\bin\Debug\Test.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1003]F:\Project\2014巴展品牌Hall1多媒体导播系统\Client\Player\Test\bin\Debug\Test.dll" Expanded="true" />
+    <Node UniqueName="[0-1004]Test" Expanded="true" />
+    <Node UniqueName="[0-1000]Test.TestClass" Expanded="true" />
+    <Node UniqueName="[0-1001]Test.TestClass.UpdateAllContentTest" Expanded="true" />
+  </Nodes>
+</VisualState>

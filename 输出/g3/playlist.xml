@@ -1,0 +1,33 @@
+<data>
+  <video>
+    <fileName>highrailwayoff_cn.mp4</fileName>
+    <des>
+      <type>pic</type>
+      <last>10</last>
+      <fileName>ca.jpg</fileName>
+    </des>
+    <des>
+      <type>pic</type>
+      <last>10</last>
+      <fileName>m2m.jpg</fileName>
+    </des>
+    <des>
+      <type>pic</type>
+      <last>10</last>
+      <fileName>ptt.jpg</fileName>
+    </des>
+  </video>
+  <video>
+    <fileName>ca_cn.mp4</fileName>
+    <des>
+      <type>pic</type>
+      <last>12</last>
+      <fileName>_wifi.jpg</fileName>
+    </des>
+    <des>
+      <type>pic</type>
+      <last>10</last>
+      <fileName>_AtomCell.jpg</fileName>
+    </des>
+  </video>
+</data>

@@ -1,0 +1,14 @@
+F:\Project\2014巴展品牌Hall1多媒体导播系统\Server\FileWatcher\FileWatcher\FileWatcher\bin\Debug\FileWatcher.exe
+F:\Project\2014巴展品牌Hall1多媒体导播系统\Server\FileWatcher\FileWatcher\FileWatcher\bin\Debug\FileWatcher.pdb
+F:\Project\2014巴展品牌Hall1多媒体导播系统\Server\FileWatcher\FileWatcher\FileWatcher\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Project\2014巴展品牌Hall1多媒体导播系统\Server\FileWatcher\FileWatcher\FileWatcher\obj\x86\Debug\FileWatcher.exe
+F:\Project\2014巴展品牌Hall1多媒体导播系统\Server\FileWatcher\FileWatcher\FileWatcher\obj\x86\Debug\FileWatcher.pdb
+F:\Project\2015项目\2015巴展Hall1多媒体导播系统_曾宏\Server\FileWatcher\FileWatcher\FileWatcher\obj\x86\Debug\FileWatcher.exe
+F:\Project\2015项目\2015巴展Hall1多媒体导播系统_曾宏\Server\FileWatcher\FileWatcher\FileWatcher\obj\x86\Debug\FileWatcher.pdb
+F:\Project\2015项目\2015巴展Hall1多媒体导播系统_曾宏\Server\FileWatcher\FileWatcher\FileWatcher\bin\Debug\FileWatcher.exe
+F:\Project\2015项目\2015巴展Hall1多媒体导播系统_曾宏\Server\FileWatcher\FileWatcher\FileWatcher\bin\Debug\FileWatcher.pdb
+F:\Project\2015项目\2015巴展Hall1多媒体导播系统_曾宏\Server\FileWatcher\FileWatcher\FileWatcher\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\bzdata\2015巴展Hall1多媒体导播系统_曾宏\Server\FileWatcher\FileWatcher\FileWatcher\obj\x86\Debug\FileWatcher.exe
+D:\bzdata\2015巴展Hall1多媒体导播系统_曾宏\Server\FileWatcher\FileWatcher\FileWatcher\obj\x86\Debug\FileWatcher.pdb
+D:\bzdata\2015巴展Hall1多媒体导播系统_曾宏\Server\FileWatcher\FileWatcher\FileWatcher\bin\Debug\FileWatcher.exe
+D:\bzdata\2015巴展Hall1多媒体导播系统_曾宏\Server\FileWatcher\FileWatcher\FileWatcher\bin\Debug\FileWatcher.pdb
